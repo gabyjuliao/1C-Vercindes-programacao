@@ -2,6 +2,10 @@ body{
     background-color: #FF7F50;
     text-align: center;
 }
+.principal{
+    background-color: black
+    padding: 30%;
+}
 
 h1{
     font-size: 30px;
@@ -33,4 +37,7 @@ ul{
     vertical-align: top;
     margin: 3%;
     list-style: circle;
+    width: 20%;
+    margin-right: 15%;
+
 }
